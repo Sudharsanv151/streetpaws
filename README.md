@@ -13,13 +13,5 @@ CSS
 JavaScript
 Bootstrap
 MySQL
-Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-Clone the repository: git clone https://github.com/yourusername/animal-welfare-organization-website.git
-Navigate to the project directory: cd animal-welfare-organization-website
-Open index.html in your browser to view the website.
-Contributing
 
 We welcome contributions to enhance the project. Please feel free to submit pull requests, report issues, or suggest features.
