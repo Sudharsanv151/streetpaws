@@ -1,3 +1,5 @@
+# STREET PAWS BASED ON ANIMAL WELFARE ORGANISATIONS
+
 This project is dedicated to promoting animal welfare by providing an easy-to-navigate platform for animal adoption. Our website offers users access to various animal adoption links, making it easier for potential adopters to find their new furry friends.
 
 Features
