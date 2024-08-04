@@ -18,3 +18,18 @@ Bootstrap
 MySQL
 
 We welcome contributions to enhance the project. Please feel free to submit pull requests, report issues, or suggest features.
+
+1. Home page
+![image](https://github.com/user-attachments/assets/016b25aa-c54d-4390-9c76-7b8c0d7cfe3e)
+
+2. Adoption page
+![image](https://github.com/user-attachments/assets/1b18b156-f28d-478d-9d6e-247d5c560c28)
+
+3. Contact page
+![image](https://github.com/user-attachments/assets/df0841ed-2131-4f08-8fc3-913c3a32aa51)
+
+4. Services page
+![image](https://github.com/user-attachments/assets/01a96bac-6b0c-4277-a0dc-0304c17e105c)
+
+
+
